@@ -29,7 +29,7 @@ Managing large Unity projects often involves renaming hundreds of objects manual
 1. Clone the repository.
 2. Copy the script into an `Editor` folder inside your Unity project.
 3. Open Unity.
-4. Access the tool from the Unity menu.
+4. Access the tool from the Unity menu or use shortcut `ctrl shift alt r`.
 
 ## Author
 **Prasad Bhavani M**
